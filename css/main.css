@@ -1,0 +1,23 @@
+.neon-yellow {
+    background-color: #ffff00;
+    color: black;
+}
+.neon-pink {
+    background-color: deeppink;
+    color: #ffffff;
+}
+
+.jumbotron ul {
+    font-size: 21px;
+    font-weight: 200;
+    margin-bottom: 15px;
+}
+
+.jumbotron {
+    background-image: url("../img/raveparty1.png");
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
