@@ -1,0 +1,19 @@
+{
+  "name": "ravestories",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fgolemo/rave-stories",
+  "authors": [
+    "Florian Golemo <fgolemo@gmail.com>"
+  ],
+  "description": "todo",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
