@@ -1,88 +1,37 @@
 {
-"story1": [
-    	"Consumer 2",
-    	"2014-07-24",
-    	"22:55",
-	"2014-07-24",
-	"20:00",
-	"BoomTown",
-    	"Mental evening, got fu**ed in Boomtown, awesome! Pumping beats, snorted some ket. Entered K-hole which is dark in Boomtown. Great night though. Loved the second floor, downstairs was a bit much for me, but the large space and awesome building made my night."
-], 
-
-"story2": [
-    	"Consumer 3",
-    	"2014-07-24",
-    	"21:30",
-	"2014-07-24",
-	"20:00",
-	"BoomTown",
-    	"I liked downstairs personally, there were some pretty dodgy guys down there, but the music was amazing. I didn’t see anyone selling anything."
-],
-
-"story3": [
-    	"Consumer 4",
-    	"2014-07-25",
-    	"14:25",
-	"2014-07-24",
-	"20:00",
-	"BoomTown",
-    	"“It was nice last night to go to Boomtown. Space to dance and quite empty :) Well times change desu nee? The Nishi-Azabu nightspot 'Eleven' in Tokyo is actually a good Boomtown branch as they feature Sound of Boomtown."
-],
-
-"story4": [
-    	"Consumer 9",
-    	"2014-07-25",
-    	"18:25",
-	"2014-07-24",
-	"20:00",
-	"BoomTown",
-    	"So, I had never been to Boomtown before, but I thought fuck it I'll give it a go. I went to the line and saw a massive queue. I debated leaving right away, because the air was bitter - not normal for me a Brazilian. I was persuaded to stay and as I approached the door I saw the freakiest bouncer, the one I had heard about - c**t. He studied each one by one as they went past him, finally it got to my turn. I looked him in his eye (surrounded by tattoos) he waved has hand and in I went to the pounding tunes. The night was full, people were properly spaced out - you could see it in the pupils, but everyone was friendly. I went to the toilet and was offered some stuff, but I didn’t know the guy so left it. I have some experience with Ketamine, but not in the club. The tunes upstairs were even better than those that greeted me. Bloody loved the night!"
-],
-
-"story5": [
-    	"Consumer 9",
-    	"2014-07-28",
-    	"09:00",
-	"2014-07-24",
-	"20:00",
-	"BoomTown",
-    	"Ketmine use has resulted in the deaths of two individuals in the last month. This is due to kidney failure following long term use. Other deaths have occured due to a blend of ketamine and alcohol."
-],
-
-
-
-"tweet1": [
-    	"2014-07-24",
-    	"19:50",
-	"Consumer 5",
-	"#dancing all night @BoomTown"
-],
-
-"tweet2": [
-    	"2014-07-24",
-    	"20:10",
-	"Consumer 4",
-	"check out #rstories - 2 people arrested #BoomTown"
-],
-
-"tweet3": [
-    	"2014-07-24",
-    	"22:33",
-	"Consumer 7",
-	"just arrived at #BoomTown - sombody else coming?"
-],
-
-"tweet5": [
-    	"2014-07-24",
-    	"20:11",
-	"Consumer 8",
-	"what's going on? police at #BoomTown"
-],
-
-"tweet6": [
-    	"2014-07-24",
-    	"20:16",
-	"Consumer 10",
-	"critical situation at #BoomTown, better stay away” (background: two deaths)"
-]
+    "stories": [
+        {
+            "username": "Breezy Badger",
+            "entryDate": "2014-07-25",
+            "entryTime": "13:23",
+            "eventDate": "2014-07-20",
+            "eventTime": "23:00",
+            "location": "BoomTown",
+            "text": "Mental evening, got fu**ed in Boomtown, awesome! Pumping beats, snorted some ket. Entered K-hole which is dark in Boomtown. Great night though. Loved the second floor, downstairs was a bit much for me, but the large space and awesome building made my night."
+        },
+        {
+            "username": "Dapper Drake",
+            "entryDate": "2014-07-24",
+            "entryTime": "17:10",
+            "eventDate": "2014-07-20",
+            "eventTime": "23:30",
+            "location": "BoomTown",
+            "text": "I liked downstairs personally, there were some pretty dodgy guys down there, but the music was amazing. I didn’t see anyone selling anything."
+        }
+    ],
+    "tweets": [
+        {
+            "username": "gianfrancman",
+            "entryDate": "2014-07-21",
+            "entryTime": "00:05",
+            "text": "#dancing all night @BoomTown"
+        },
+        {
+            "username": "eMax",
+            "entryDate": "2014-07-21",
+            "entryTime": "02:34",
+            "text": "check out #rstories - 2 people arrested #BoomTown"
+        }
+    ]
 }
+
